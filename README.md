@@ -1,6 +1,6 @@
 # ConFusion
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
+Following the [Front-End JavaScript Frameworks: Angular](https://www.coursera.org/learn/angular) course by Hong Kong University on Coursera.
 
 ## Development server
 
