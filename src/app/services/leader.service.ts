@@ -11,4 +11,12 @@ export class LeaderService {
   getLeaders() {
     return LEADERS;
   }
+
+  getLeader(id: String) {
+    return LEADERS.filter((leader) => (leader.id === id))[0];
+  }
+
+  getFeaturedLeader() {
+    return LEADERS.filter((leader) => leader.featured)[0];
+  }
 }
